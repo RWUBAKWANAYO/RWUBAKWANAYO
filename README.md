@@ -1,3 +1,2 @@
-![RWUBAKWANAYO's GitHub stats](https://github-readme-stats.vercel.app/api?username=RWUBAKWANAYO&count_private=true&theme=dark&show_icons=true&bg_color=24292f&title_color=EFFF00&text_color=CDEEFFE2&icon_color=00F6FF&border_color=B3BBFF42)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RWUBAKWANAYO&theme=elegant&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&ring=EFFF00&fire=00F6FF&currStreakLabel=00F6FF&border=B3BBFF8B&sideLabels=EFFF00&dates=CDEEFFE2&background=24292F)](https://git.io/streak-stats)
+![RWUBAKWANAYO's GitHub stats](https://github-readme-stats.vercel.app/api?username=RWUBAKWANAYO&count_private=true&theme=dark&show_icons=true&bg_color=FFFFFF0F&title_color=00DB49&text_color=8A8FA0&icon_color=FFBC00&border_color=AFB8C175)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RWUBAKWANAYO&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=54AEFF&border=AFB8C18B&background=FFFFFF0F&ring=FFBC00&fire=54AEFF&sideLabels=00DB49&dates=8A8FA0&stroke=AFB8C177&sideNums=8A8FA0&currStreakNum=8A8FA0)](https://git.io/streak-stats)
