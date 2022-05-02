@@ -2,9 +2,7 @@
 
 🌱 I'm a software developer based in Rwanda.
 
-🥅 I have decided to make programing My career after  I found passion and interest in it, that's why I have a stable source 
-
-of motivation that pushes me to do my best and   learn more.
+🥅 I have decided to make programing My career after  I found passion and interest in it, that's why I have a stable source of motivation that pushes me to do my best and   learn more.
 
 💻 I am a JavaScript and React Enthusiast, and I like to take challenges and come up with solutions..
 
