@@ -4,15 +4,13 @@
 
 🥅 I have decided to make programing My career after  I found passion and interest in it, that's why I have a stable source of motivation that pushes me to do my best and   learn more.
 
-💻 I am a JavaScript and React Enthusiast, and I like to take challenges and come up with solutions..
+💻 I am a JavaScript and React Enthusiast, and I like to take challenges and come up with solutions.
 
-## Portfolio
+🟠 Check my resume, my portfolio: [rwubakwanayo.github.io/personal-website](https://rwubakwanayo.github.io/personal-website/)
 
-_Click the link to Visit Website: [rwubakwanayo.github.io/personal-website](https://rwubakwanayo.github.io/personal-website/)_ 
-
-
-<img src="https://user-images.githubusercontent.com/68381641/176392539-30db8ab2-0655-4fa0-bd33-0befdcb0c087.png" width="500" />
-
+## Tech stack
+[![My Skills](https://skillicons.dev/icons?i=ts,react,redux,mui,jest,webpack,js,html,css,sass,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,nodejs,express,postgres,mongodb,netlify,heroku)](https://skillicons.dev)
 
 ## Git hub stats
 
@@ -35,4 +33,5 @@ _Click the link to Visit Website: [rwubakwanayo.github.io/personal-website](http
 - Twitter: [@rwubakwanayo](https://twitter.com/rwubakwanayo?t=fP8ZzLHMQWRnyBXnHGhEwA&s=09)
 - LinkedIn: [rwubakwanayo-olivier](https://rw.linkedin.com/in/rwubakwanayo-olivier?trk=people-guest_people_search-card)
 - StackOverflow: [stackoverflow-rwubakwanayo](https://stackoverflow.com/users/14882978/rwubakwanayo)
+
 
