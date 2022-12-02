@@ -6,7 +6,7 @@
 
 💻 I am a JavaScript and React Enthusiast, and I like to take challenges and come up with solutions.
 
-🟠 Check my resume, my portfolio: [rwubakwanayo.github.io/personal-website](https://rwubakwanayo.github.io/personal-website/)
+🟠 Check out my resume, and portfolio: [rwubakwanayo.github.io/personal-website](https://rwubakwanayo.github.io/personal-website/)
 
 ## Tech stack
 [![My Skills](https://skillicons.dev/icons?i=ts,react,redux,mui,jest,webpack,js,html,css,sass,bootstrap)](https://skillicons.dev)
