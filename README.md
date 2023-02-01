@@ -1,12 +1,16 @@
 # Hi there 👋 I'm Rwubakwanayo Olivier
 
-🌱 I'm a software developer based in Rwanda.
+- I am a highly motivated and organized software engineer with strong experience in developing, maintaining, and troubleshooting web applications.
 
-🥅 I have decided to make programing My career after  I found passion and interest in it, that's why I have a stable source of motivation that pushes me to do my best and   learn more.
+- I possess proficiency in a wide range of programming languages, frameworks, and databases, including Javascript, React Typescript, Node, Ruby on Rails, PostgreSQL, and MongoDB.
 
-💻 I am a JavaScript and React Enthusiast, and I like to take challenges and come up with solutions.
+- I have a passion for learning and exploring new technologies, and I'm always looking for ways to improve my skill set. 
 
-🟠 Check out my resume, and portfolio: [rwubakwanayo.github.io/personal-website](https://rwubakwanayo.github.io/personal-website/)
+- I possess great communication and interpersonal skills with a focus on collaboration and problem-solving
+
+- I am well-versed in Agile and Scrum processes and methodologies
+
+🟠 Follow this link to view my resume and portfolio: [rwubakwanayo.github.io/personal-website](https://rwubakwanayo.github.io/personal-website/)
 
 ## Tech stack
 [![My Skills](https://skillicons.dev/icons?i=ts,react,redux,mui,jest,webpack,js,html,css,sass,bootstrap)](https://skillicons.dev)
