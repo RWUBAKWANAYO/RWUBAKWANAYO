@@ -25,11 +25,12 @@
 
 ## What I'm doing now
 
-🔭 Student at Microverse
+↔️ Work as a freelancer to create, troubleshoot, and evaluate clients' software applications.
+
+🔭 Work alongside other developers to enhance my software development proficiency within the microverse community.
 
 🌱 Enhancing my full-stack developer skills everyday
 
-↔️ Workking on client projects as freelancer
 
 ## How to reach me
 - GitHub: [@RWUBAKWANAYO](https://github.com/RWUBAKWANAYO)
